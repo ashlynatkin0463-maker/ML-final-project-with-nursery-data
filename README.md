@@ -2,7 +2,7 @@
 
 ### Introduction ###
 
-This is my Machine Learning project that I focused on predicting nursery school application outcomes using a dataset of applicant information. The dataset includes features such as: Parents’ background (parents), Access to a nursery (has_nurs), Application form (form), Number of children (children), Housing situation (housing), Financial status (finance), Social status (social), and Health status (health).
+This is my Machine Learning project that I focused on predicting nursery school application outcomes using a dataset of applicant information. The dataset includes features such as: Parents’ background (parents), Access to a nursery (has_nurs), Application form (form), Number of children (children), Housing situation (housing), Financial status (finance), Social status (social), and Health status (health). Citation :Rajkovic, V. (1989). Nursery [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5P88W.
 
 The target variable is class, which categorizes applications as recommended, priority, or not recommended.
 
